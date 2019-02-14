@@ -1,11 +1,11 @@
-# On stability and instability of deep learning in inverse problems
+#On instabilities of deep learning in image reconstruction - Does AI come at a cost?
 
 This repository contains the code from the paper "On instabilities of deep
 learning in image reconstruction - Does AI come at a cost?", by V. Antun, F.
 Rennar, C. Poon, B. Adcock and A. Hansen.
 
 In order to make this code run you will have to download and install
-the neural networks we have considered. All the necessary data can be
+the neural networks we have considered. Most of the necessary data can be
 downloaded from
 [http://folk.uio.no/vegarant/123/storage2.zip](http://folk.uio.no/vegarant/123/storage2.zip)
 (4.9 GB). Please note that you will have to modify all paths in the
@@ -30,7 +30,7 @@ Download and install the
 [DeepMRINet](https://github.com/js3611/Deep-MRI-Reconstruction) and
 add it to your pythonpath. Note that to run DeepMRINet you need a very
 specific version of Theano and Lasagne. See the GitHub page of
-DeepMRINet for more information on this point. Then run the code in
+DeepMRINet for more information about this. Then run the code in
 the `DeepMRI` folder.
 
 ## MRI-VN
@@ -43,7 +43,7 @@ run "the add more samples" experiment you need to download the data from
 
 
 ## AUTOMAP 
-These experiments are completely self contained. It requires a vanilla
+These experiments are self contained. It requires a vanilla
 Tensorflow install. 
 
 ## DAGAN
