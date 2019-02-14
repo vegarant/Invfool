@@ -1,0 +1,11 @@
+data_config:
+  dataset:
+    name: coronal_pd_fs
+    patient: 16
+    mask: masks/un_samp_patt_0.15.mat
+    slice: 22
+  normalization: max
+  sampling_pattern: cartesian
+  sens_type: espirit
+  batch_size: 10
+  base_dir: /local/scratch/public/va304/storage2/mri-vn   # this path has to point to the downloaded Globus data
