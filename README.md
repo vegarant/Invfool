@@ -1,4 +1,4 @@
-#On instabilities of deep learning in image reconstruction - Does AI come at a cost?
+# On instabilities of deep learning in image reconstruction - Does AI come at a cost?
 
 This repository contains the code from the paper "On instabilities of deep
 learning in image reconstruction - Does AI come at a cost?", by V. Antun, F.
