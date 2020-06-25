@@ -39,7 +39,7 @@ Download the network code for
 python path. Note that this network requires a custom-made version of
 tensorflow, [tensorflow-icg](https://github.com/VLOGroup/tensorflow-icg). To 
 run "the add more samples" experiment you need to download the data from 
-[GLOBUS](https://www.globus.org/app/transfer?origin_id=92ca2774-5225-11e8-9056-0a6d4e044368&origin_path=%2F).
+[GLOBUS](https://app.globus.org/file-manager?origin_id=15c7de28-a76b-11e9-821c-02b7a92d8e58&origin_path=%2F).
 
 
 ## AUTOMAP 
