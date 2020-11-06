@@ -2,7 +2,7 @@
 
 This repository contains the code from the paper "On instabilities of deep
 learning in image reconstruction - Does AI come at a cost?", by V. Antun, F.
-Rennar, C. Poon, B. Adcock and A. Hansen.
+Renna, C. Poon, B. Adcock and A. Hansen.
 
 In order to make this code run you will have to download and install
 the neural networks we have considered. Most of the necessary data can be
