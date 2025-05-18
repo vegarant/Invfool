@@ -6,7 +6,7 @@ Renna, C. Poon, B. Adcock and A. Hansen.
 
 In order to make this code run you will have to download and install
 the neural networks we have considered. Most of the necessary data can be
-downloaded from [https://www.mn.uio.no/math/english/people/aca/vegarant/data/storage2.zip](https://www.mn.uio.no/math/english/people/aca/vegarant/data/storage2.zip)
+downloaded from [https://mega.nz/file/W9QxVAJI#9hQU_w8MZF-ifAoAFX-DU_x5J49dNjzS6tR44GWKLIw](https://mega.nz/file/W9QxVAJI#9hQU_w8MZF-ifAoAFX-DU_x5J49dNjzS6tR44GWKLIw)
 (4.9 GB). Please note that you will have to modify all paths in the
 source files so that they point to the data. You will also need to
 add the directory `py_adv_tools` to your python path. 
